@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^5.2.0",
+    "crypto-js": "^4.1.1"
+  }
 }
