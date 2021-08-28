@@ -2,7 +2,7 @@
 Bloom Week 1
 
 ## Install instructions
-git clone
-cd bloom-0-1
-npm install
-npm run start
+- git clone
+- cd bloom-0-1
+- npm install
+- npm run start
